@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=CHAOZHAO-1&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-### Hello, I am a doctoral student at Huazhong University of Science and Technology (2019-present), supervised by Professor WeiMing Shen. Currently, I am on an exchange visit at Politecnico di Milano in Italy, under the supervision of Professor Enrico Zio. 👋
-- :orange_book: Focusing on Swift & iOS
-- :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover
+### Hello 👋
+I am a doctoral student at Huazhong University of Science and Technology (2019-present), supervised by Professor WeiMing Shen. Currently, I am on an exchange visit at Politecnico di Milano in Italy, under the supervision of Professor Enrico Zio.
+
+- :Reasearch Gate: https://www.researchgate.net/profile/Chao-Zhao-49?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19
+- :Google Scholar: https://scholar.google.com.au/citations?user=GMK0p4QAAAAJ&hl=zh-CN
+
