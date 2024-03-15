@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hello 👋
 I am a doctoral student at Huazhong University of Science and Technology (2019-present), supervised by Professor WeiMing Shen. Currently, I am on an exchange visit at Politecnico di Milano in Italy, under the supervision of Professor Enrico Zio.
 
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Follow-blue)](https://www.researchgate.net/profile/Your_Profile)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Follow-blue)](https://www.researchgate.net/profile/Chao-Zhao-49)
 
 - [Reasearch Gate](https://www.researchgate.net/profile/Chao-Zhao-49?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19)
 - [Google Scholar](https://scholar.google.com.au/citations?user=GMK0p4QAAAAJ&hl=zh-CN)
