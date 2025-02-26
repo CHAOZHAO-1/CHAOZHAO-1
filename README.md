@@ -8,15 +8,17 @@ I am a doctoral student at Huazhong University of Science and Technology (2019-p
 
 ---
 
-### 🛠️ Tools
-Here are some of my repositories related to tools and utilities:
+### 🛠️ Review Paper
+Here are my repositories related to my review paper:
 
-- **[Repo Name 1](https://github.com/CHAOZHAO-1/repo1)**: A description of what this repo does and its key features.
-- **[Repo Name 2](https://github.com/CHAOZHAO-1/repo2)**: A description of what this repo does and its key features.
+- **[DG-PHM](https://github.com/CHAOZHAO-1/DG-PHM)**: This is a repository about Domain Generalization for PHM, including papers, code, datasets etc.
+- **[DGFD-Benchmark](https://github.com/CHAOZHAO-1/Domain-generalization-fault-diagnosis-benchmark)**: This is a benckmark for domain generalization-based fault diagnosis
 
+- **[LLM-PHM](https://github.com/CHAOZHAO-1/LLM-based-PHM)**: This is a reposotory that includes paper about LLM-based fault diagnosis and prognosis.
+- **[Multimodal-PHM](https://github.com/CHAOZHAO-1/Awsome-Multi-modal-based-PHM)**: This repository contains papers, code, and datasets related to multi-modal-based fault diagnosis.
 ---
 
-### 🤖 Machine Learning
+### 🤖 Research Paper
 Some of my repositories related to machine learning and AI:
 
 - **[ML Repo 1](https://github.com/CHAOZHAO-1/ml-repo1)**: This repo covers a specific machine learning algorithm and implementation.
