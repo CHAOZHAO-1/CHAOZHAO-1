@@ -18,27 +18,41 @@ Here are my repositories related to my review paper:
 - **[Multimodal-PHM](https://github.com/CHAOZHAO-1/Awsome-Multi-modal-based-PHM)**: This repository contains papers, code, and datasets related to multi-modal-based fault diagnosis.
 ---
 
+
 ### 🤖 Research Paper
-Some of my repositories related to machine learning and AI:
+Some of my repositories related to research paper:
 
-- **[ML Repo 1](https://github.com/CHAOZHAO-1/ml-repo1)**: This repo covers a specific machine learning algorithm and implementation.
-- **[ML Repo 2](https://github.com/CHAOZHAO-1/ml-repo2)**: A deep dive into deep learning frameworks and models.
+- **[AOSDGN](https://github.com/CHAOZHAO-1/AOSDGN)**: Adaptive open set domain generalization network: Learning to diagnose unknown faults under unknown working conditions.
+- **[SDAGN](https://github.com/CHAOZHAO-1/SDAGN)**:  Imbalanced domain generalization via Semantic-Discriminative augmentation for intelligent fault diagnosis.
+
+- **[BWAN](https://github.com/CHAOZHAO-1/A-balanced-and-weighted-alignment-network-for-partial-transfer-fault-diagnosis)**: A-balanced-and-weighted-alignment-network-for-partial-transfer-fault-diagnosis.
+- **[MSDGN](https://github.com/CHAOZHAO-1/MSDGN)**:  Mutual-assistance semisupervised domain generalization network for intelligent fault diagnosis under unseen working conditions.
+
+- **[FDDG](https://github.com/CHAOZHAO-1/FDDG)**: A federated distillation domain generalization framework for machinery fault diagnosis with data privacy.
+- **[FedDGMC](https://github.com/CHAOZHAO-1/FedDGMC)**: Federated Domain Generalization: A Secure and Robust Framework for Intelligent Fault Diagnosis.
+
+- **[DAN](https://github.com/CHAOZHAO-1/Dual-adversarial-network-for-cross-domain-open-set-fault-diagnosis)**: Dual adversarial network for cross-domain open set fault diagnosis.
+- **[DGNIS](https://github.com/CHAOZHAO-1/DGNIS)**: A domain generalization network combing invariance and specificity towards real-time intelligent fault diagnosis.
 
 ---
 
-### 💻 Projects
-Check out some of my ongoing and past projects:
+### 💻 Open-source HUST datasets and other datasets
+Check out some of HUST datasets other datasets:
 
-- **[Project Name 1](https://github.com/CHAOZHAO-1/project1)**: An overview of the project, its goals, and outcomes.
-- **[Project Name 2](https://github.com/CHAOZHAO-1/project2)**: A description of the project and its impact on a specific field.
+- **[HUSTbearing-dataset](https://github.com/CHAOZHAO-1/HUSTbearing-dataset)**: This reposotory release a bearing failure dataset, which can support intelliegnt fault diagnosis research.
+- **[HUSTgearbox-dataset](https://github.com/CHAOZHAO-1/HUSTgearbox-dataset)**: This reposotory release a gearbox failure dataset, which can support intelliegnt fault diagnosis research.
+
+- **[HUSTmotormultimodal-dataset](https://github.com/CHAOZHAO-1/HUSTmotor-multi-modal-dataset)**:This repository has open-sourced a dataset of motor failure, including vibration signals and audio signals..
+- **[HUSTTransmissionsystem-dataset](https://github.com/CHAOZHAO-1/HUSTTransmissionsystem-dataset)**: This reposotory release a Transmission system failure dataset.
+
+- **[Opensource datasets](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset)**: About An open-source mechanical failure dataset is available, comprising 30+ categories including bearings, gears, pumps, and others..
 
 ---
 
-### 🌱 Research
-Here are some of the repositories that are related to my research work:
+### 🌱 Personal experience
+Here are some of the repositories that are related to personal summary of research:
 
-- **[Research Repo 1](https://github.com/CHAOZHAO-1/research-repo1)**: A repo related to my Ph.D. research.
-- **[Research Repo 2](https://github.com/CHAOZHAO-1/research-repo2)**: Another repo focusing on a particular aspect of my research.
+- **[The-Ph.D.-journey-sceneryPublic](https://github.com/CHAOZHAO-1/The-Ph.D.-journey-scenery)**: Collected a number of doctoral problems encountered and related information.
 
 ---
 
