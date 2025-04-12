@@ -1,7 +1,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=CHAOZHAO-1&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### Hello 👋
-I am a doctoral student at Huazhong University of Science and Technology (2019-present), supervised by Prof. Weiming Shen. I was a visting Ph.D. at Politecnico di Milano in Italy, under the supervision of Prof. Enrico Zio. My Email: zhaochao0612@gmail.com
+
+I am currently an Associate Professor at Northeastern University, China. I received my Ph.D. from Huazhong University of Science and Technology in March 2025, under the supervision of Prof. Weiming Shen. I was a visiting Ph.D. student at Politecnico di Milano in Italy under the supervision of Prof. Enrico Zio.
+
+My Email: zhaochao0612@gmail.com
 
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Follow-blue)](https://www.researchgate.net/profile/Chao-Zhao-49)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Follow-green)](https://scholar.google.com.au/citations?user=GMK0p4QAAAAJ&hl=zh-CN)
