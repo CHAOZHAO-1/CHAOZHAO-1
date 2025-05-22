@@ -1,15 +1,11 @@
 <img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=CHAOZHAO-1&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-# 👋 Hello, I'm Chao Zhao
-
-
-
-I am an **Associate Professor** at the School of Mechanical Engineering and Automation, **Northeastern University**, China. I earned my Ph.D. in March 2025 from **Huazhong University of Science and Technology**, under the supervision of Prof. **Weiming Shen**. During my Ph.D., I was also a visiting scholar at **Politecnico di Milano**, Italy, under the guidance of Prof. **Enrico Zio**.
+# 👋 Hello, I'm Chao Zhao， I am an **Associate Professor** at the School of Mechanical Engineering and Automation, **Northeastern University**, China. I earned my Ph.D. in March 2025 from **Huazhong University of Science and Technology**, under the supervision of Prof. **Weiming Shen**. During my Ph.D., I was also a visiting scholar at **Politecnico di Milano**, Italy, under the guidance of Prof. **Enrico Zio**.
 
 ---
 
 ## 🌟 招生信息 / 招生方向
 
-大家好，我是赵超，目前在东北大学机械工程与自动化学院任副教授。欢迎对智能制造和运维感兴趣的同学加入我的课题组！
+大家好，我是赵超，目前在东北大学（中国沈阳）机械工程与自动化学院任副教授。欢迎对智能制造和运维感兴趣的同学加入我的课题组！
 
 📌 **课题组现招收硕士研究生**（2025年9月入学）
 📌 **欢迎本科生提前参与科研实践**
