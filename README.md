@@ -1,10 +1,55 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=CHAOZHAO-1&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-### Hello 👋
 
-I am currently an Associate Professor at Northeastern University, China. I received my Ph.D. from Huazhong University of Science and Technology in March 2025, under the supervision of Prof. Weiming Shen. I was a visiting Ph.D. student at Politecnico di Milano in Italy under the supervision of Prof. Enrico Zio.
+# 👋 Hello, I'm Chao Zhao
 
-My Email: zhaochao0612@gmail.com
+## 🧑‍🏫 About Me
+
+I am an **Associate Professor** at the School of Mechanical Engineering and Automation, **Northeastern University**, China. I earned my Ph.D. in March 2025 from **Huazhong University of Science and Technology**, under the supervision of Prof. **Weiming Shen**. During my Ph.D., I was also a visiting scholar at **Politecnico di Milano**, Italy, under the guidance of Prof. **Enrico Zio**.
+
+---
+
+## 🌟 招生信息 / 招生方向
+
+大家好，我是赵超，目前在东北大学机械工程与自动化学院任副教授。欢迎对智能制造和运维感兴趣的同学加入我的课题组！
+
+📌 **课题组现招收硕士研究生**（2025年9月入学）
+📌 **欢迎本科生提前参与科研实践**
+
+本课题组注重**平等交流**、**沟通融治**，并与以下单位保持紧密合作：
+
+* 华中科技大学 机械学院
+* 米兰理工大学 能源系
+* 福耀科技大学 等国内外高校
+
+我们将为学生提供**联合培养**、**科研合作**与**企业交流**的机会。
+
+---
+
+## 🔬 Research Interests
+
+If you're interested in any of the following areas, feel free to reach out via email — I’m always open to potential collaborations:
+
+* **Data-Model Hybrid Driven Intelligent Monitoring & Maintenance for Advanced Equipment**
+  数模混合驱动的高端装备智能监测与运维
+* **Application of Foundation Models in Smart Manufacturing**
+  工业大模型在智能制造中的应用
+* **Industrial Big Data Governance and Mining**
+  工业大数据治理与挖掘
+---
+
+📫 **Contact**: *([zhaoc@me.neu.edu.cn](mailto:zhaoc@me.neu.edu.cn))*
+
+---
+
+
+
+
+
+
+
+
+
 
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Follow-blue)](https://www.researchgate.net/profile/Chao-Zhao-49)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Follow-green)](https://scholar.google.com.au/citations?user=GMK0p4QAAAAJ&hl=zh-CN)
