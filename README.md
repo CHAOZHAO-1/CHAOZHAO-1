@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=CHAOZHAO-1&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=CHAOZHAO-1&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 
 # 👋 Hello, I'm Chao Zhao
@@ -26,18 +26,19 @@ I am an **Associate Professor** at the School of Mechanical Engineering and Auto
 
 ---
 
-## 🔬 Research Interests
+## 🔬 Research Interests（研究兴趣）
 
 If you're interested in any of the following areas, feel free to reach out via email — I’m always open to potential collaborations:
 
-* **Data-Model Hybrid Driven Intelligent Monitoring & Maintenance for Advanced Equipment**
-  数模混合驱动的高端装备智能监测与运维
-* **Application of Foundation Models in Smart Manufacturing**
-  工业大模型在智能制造中的应用
-* **Industrial Big Data Governance and Mining**
-  工业大数据治理与挖掘
+* **Data-Model Hybrid Driven Intelligent Monitoring & Maintenance for Advanced Equipment** （数模混合驱动的高端装备智能监测与运维）
+
+* **Application of Foundation Models in Smart Manufacturing** （ 工业大模型在智能制造中的应用）
+ 
+* **Industrial Big Data Governance and Mining** （  工业大数据治理与挖掘）
+
 ---
 
+**有任何问题都可以联系我：**  
 📫 **Contact**: *([zhaoc@me.neu.edu.cn](mailto:zhaoc@me.neu.edu.cn))*
 
 ---
