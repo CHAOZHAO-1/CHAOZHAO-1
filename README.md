@@ -1,5 +1,4 @@
 <img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=CHAOZHAO-1&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
 # 👋 Hello, I'm Chao Zhao
 
 
@@ -37,18 +36,10 @@ If you're interested in any of the following areas, feel free to reach out via e
 
 ---
 
-**有任何问题都可以联系我：**  
+**联系方式：**  
 📫 **Contact**: *([zhaoc@me.neu.edu.cn](mailto:zhaoc@me.neu.edu.cn))*
 
 ---
-
-
-
-
-
-
-
-
 
 
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Follow-blue)](https://www.researchgate.net/profile/Chao-Zhao-49)
