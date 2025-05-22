@@ -3,8 +3,6 @@
 
 # 👋 Hello, I'm Chao Zhao
 
-## 🧑‍🏫 About Me
-
 I am an **Associate Professor** at the School of Mechanical Engineering and Automation, **Northeastern University**, China. I earned my Ph.D. in March 2025 from **Huazhong University of Science and Technology**, under the supervision of Prof. **Weiming Shen**. During my Ph.D., I was also a visiting scholar at **Politecnico di Milano**, Italy, under the guidance of Prof. **Enrico Zio**.
 
 ---
