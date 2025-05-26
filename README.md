@@ -1,6 +1,7 @@
 <img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=CHAOZHAO-1&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-I'm Chao Zhao，I am an **Associate Professor** at the School of Mechanical Engineering and Automation, **Northeastern University**, China. I earned my Ph.D. in March 2025 from **Huazhong University of Science and Technology**, under the supervision of Prof. **Weiming Shen**. During my Ph.D., I was also a visiting scholar at **Politecnico di Milano**, Italy, under the guidance of Prof. **Enrico Zio**.
+
+I'm Chao Zhao, I am an **Associate Professor** at the School of Mechanical Engineering and Automation, **Northeastern University**, China. I earned my Ph.D. in March 2025 from **Huazhong University of Science and Technology**, under the supervision of [Prof. **Weiming Shen**](https://scholar.google.com/citations?user=FuSHsx4AAAAJ&hl=zh-CN). During my Ph.D., I was also a visiting scholar at **Politecnico di Milano**, Italy, under the guidance of [Prof. **Enrico Zio**](https://scholar.google.com/citations?user=Fz_uKmYAAAAJ&hl=zh-CN).
 
 ---
 
@@ -19,6 +20,11 @@ I'm Chao Zhao，I am an **Associate Professor** at the School of Mechanical Engi
 
 我们将为学生提供**联合培养**、**科研合作**与**企业交流**的机会。
 
+我的论文发表：
+
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Follow-blue)](https://www.researchgate.net/profile/Chao-Zhao-49)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Follow-green)](https://scholar.google.com.au/citations?user=GMK0p4QAAAAJ&hl=zh-CN)
+
 ---
 
 ## 🔬 Research Interests（研究兴趣）
@@ -33,26 +39,22 @@ If you're interested in any of the following areas, feel free to reach out via e
 
 ---
 
-## 联系方式：
 
-📫 **Contact**: *([zhaoc@me.neu.edu.cn](mailto:zhaoc@me.neu.edu.cn))*
-
----
-
-
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Follow-blue)](https://www.researchgate.net/profile/Chao-Zhao-49)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Follow-green)](https://scholar.google.com.au/citations?user=GMK0p4QAAAAJ&hl=zh-CN)
+### 📫 How to reach me 联系方式：
+Feel free to reach out to me via email: [zhaochao0612@gmail.com](mailto:zhaochao0612@gmail.com)
 
 ---
+
+
 
 ### 🛠️ Review Paper
 Here are my repositories related to my review paper:
 
-- **[DG-PHM](https://github.com/CHAOZHAO-1/DG-PHM)**: This is a repository about Domain Generalization for PHM, including papers, code, datasets etc.
-- **[DGFD-Benchmark](https://github.com/CHAOZHAO-1/Domain-generalization-fault-diagnosis-benchmark)**: This is a benckmark for domain generalization-based fault diagnosis
+- **[DG-PHM](https://github.com/CHAOZHAO-1/DG-PHM)**: This is a repository about Domain Generalization for PHM, including papers, code, datasets etc（基于领域泛化的故障预测与健康管理）.
+- **[DGFD-Benchmark](https://github.com/CHAOZHAO-1/Domain-generalization-fault-diagnosis-benchmark)**: This is a benckmark for domain generalization-based fault diagnosis（基于领域泛化的故障诊断基准实验）.
 
-- **[LLM-PHM](https://github.com/CHAOZHAO-1/LLM-based-PHM)**: This is a reposotory that includes paper about LLM-based fault diagnosis and prognosis.
-- **[Multimodal-PHM](https://github.com/CHAOZHAO-1/Awsome-Multi-modal-based-PHM)**: This repository contains papers, code, and datasets related to multi-modal-based fault diagnosis.
+- **[LLM-PHM](https://github.com/CHAOZHAO-1/LLM-based-PHM)**: This is a reposotory that includes paper about LLM-based fault diagnosis and prognosis（基于大模型的故障预测与健康管理）.
+- **[Multimodal-PHM](https://github.com/CHAOZHAO-1/Awsome-Multi-modal-based-PHM)**: This repository contains papers, code, and datasets related to multi-modal-based fault diagnosis（基于多模态数据的智能故障诊断）.
 ---
 
 
@@ -93,7 +95,3 @@ Here are some of the repositories that are related to personal summary of resear
 
 ---
 
-### 📫 How to reach me
-Feel free to reach out to me via email: [zhaochao0612@gmail.com](mailto:zhaochao0612@gmail.com)
-
----
