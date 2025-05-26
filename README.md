@@ -5,7 +5,7 @@ I'm Chao Zhao, I am an **Associate Professor** at the School of Mechanical Engin
 
 ---
 
-## 🌟 招生信息 / 招生方向
+## 🌟 招生信息 
 
 大家好，我是赵超，目前在东北大学（中国沈阳）机械工程与自动化学院任副教授。欢迎对智能制造和运维感兴趣的同学加入我的课题组！
 
@@ -47,7 +47,7 @@ Feel free to reach out to me via email: [zhaochao0612@gmail.com](mailto:zhaochao
 
 
 
-### 🛠️ Review Paper
+### 🛠️ Review Paper 
 Here are my repositories related to my review paper:
 
 - **[DG-PHM](https://github.com/CHAOZHAO-1/DG-PHM)**: This is a repository about Domain Generalization for PHM, including papers, code, datasets etc（基于领域泛化的故障预测与健康管理）.
@@ -61,37 +61,40 @@ Here are my repositories related to my review paper:
 ### 🤖 Research Paper
 Some of my repositories related to research paper:
 
-- **[AOSDGN](https://github.com/CHAOZHAO-1/AOSDGN)**: Adaptive open set domain generalization network: Learning to diagnose unknown faults under unknown working conditions.
-- **[SDAGN](https://github.com/CHAOZHAO-1/SDAGN)**:  Imbalanced domain generalization via Semantic-Discriminative augmentation for intelligent fault diagnosis.
+- **[AOSDGN](https://github.com/CHAOZHAO-1/AOSDGN)**: Adaptive open set domain generalization network: Learning to diagnose unknown faults under unknown working conditions. 任务：开集领域泛化故障诊断
+- **[SDAGN](https://github.com/CHAOZHAO-1/SDAGN)**:  Imbalanced domain generalization via Semantic-Discriminative augmentation for intelligent fault diagnosis.任务：不平衡领域泛化故障诊断
 
-- **[BWAN](https://github.com/CHAOZHAO-1/A-balanced-and-weighted-alignment-network-for-partial-transfer-fault-diagnosis)**: A-balanced-and-weighted-alignment-network-for-partial-transfer-fault-diagnosis.
-- **[MSDGN](https://github.com/CHAOZHAO-1/MSDGN)**:  Mutual-assistance semisupervised domain generalization network for intelligent fault diagnosis under unseen working conditions.
+- **[BWAN](https://github.com/CHAOZHAO-1/A-balanced-and-weighted-alignment-network-for-partial-transfer-fault-diagnosis)**: A-balanced-and-weighted-alignment-network-for-partial-transfer-fault-diagnosis.任务：部分领域适应故障诊断
+- **[MSDGN](https://github.com/CHAOZHAO-1/MSDGN)**:  Mutual-assistance semisupervised domain generalization network for intelligent fault diagnosis under unseen working conditions.任务：半监督领域泛化故障诊断
 
-- **[FDDG](https://github.com/CHAOZHAO-1/FDDG)**: A federated distillation domain generalization framework for machinery fault diagnosis with data privacy.
-- **[FedDGMC](https://github.com/CHAOZHAO-1/FedDGMC)**: Federated Domain Generalization: A Secure and Robust Framework for Intelligent Fault Diagnosis.
+- **[FDDG](https://github.com/CHAOZHAO-1/FDDG)**: A federated distillation domain generalization framework for machinery fault diagnosis with data privacy.任务：联邦领域泛化故障诊断
+- **[FedDGMC](https://github.com/CHAOZHAO-1/FedDGMC)**: Federated Domain Generalization: A Secure and Robust Framework for Intelligent Fault Diagnosis.任务：联邦领域泛化故障诊断
 
-- **[DAN](https://github.com/CHAOZHAO-1/Dual-adversarial-network-for-cross-domain-open-set-fault-diagnosis)**: Dual adversarial network for cross-domain open set fault diagnosis.
-- **[DGNIS](https://github.com/CHAOZHAO-1/DGNIS)**: A domain generalization network combing invariance and specificity towards real-time intelligent fault diagnosis.
+- **[DAN](https://github.com/CHAOZHAO-1/Dual-adversarial-network-for-cross-domain-open-set-fault-diagnosis)**: Dual adversarial network for cross-domain open set fault diagnosis.任务：开集域适应故障诊断
+- **[DGNIS](https://github.com/CHAOZHAO-1/DGNIS)**: A domain generalization network combing invariance and specificity towards real-time intelligent fault diagnosis.任务：领域泛化故障诊断
 
 ---
 
 ### 💻 Open-source HUST datasets and other datasets
 Check out some of HUST datasets other datasets:
 
-- **[HUSTbearing-dataset](https://github.com/CHAOZHAO-1/HUSTbearing-dataset)**: This reposotory release a bearing failure dataset, which can support intelliegnt fault diagnosis research.
-- **[HUSTgearbox-dataset](https://github.com/CHAOZHAO-1/HUSTgearbox-dataset)**: This reposotory release a gearbox failure dataset, which can support intelliegnt fault diagnosis research.
+- **[HUSTbearing-dataset](https://github.com/CHAOZHAO-1/HUSTbearing-dataset)**: This reposotory release a bearing failure dataset, which can support intelliegnt fault diagnosis research. 轴承数据集
+- **[HUSTgearbox-dataset](https://github.com/CHAOZHAO-1/HUSTgearbox-dataset)**: This reposotory release a gearbox failure dataset, which can support intelliegnt fault diagnosis research. 齿轮数据集
 
-- **[HUSTmotormultimodal-dataset](https://github.com/CHAOZHAO-1/HUSTmotor-multi-modal-dataset)**:This repository has open-sourced a dataset of motor failure, including vibration signals and audio signals..
-- **[HUSTTransmissionsystem-dataset](https://github.com/CHAOZHAO-1/HUSTTransmissionsystem-dataset)**: This reposotory release a Transmission system failure dataset.
+- **[HUSTmotormultimodal-dataset](https://github.com/CHAOZHAO-1/HUSTmotor-multi-modal-dataset)**:This repository has open-sourced a dataset of motor failure, including vibration signals and audio signals.多模态电机数据集
+- **[HUSTTransmissionsystem-dataset](https://github.com/CHAOZHAO-1/HUSTTransmissionsystem-dataset)**: This reposotory release a Transmission system failure dataset. 传动系统数据集
 
-- **[Opensource datasets](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset)**: About An open-source mechanical failure dataset is available, comprising 30+ categories including bearings, gears, pumps, and others..
+- **[Opensource datasets](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset)**: About An open-source mechanical failure dataset is available, comprising 30+ categories including bearings, gears, pumps, and others. 其他开源数据集
 
 ---
 
-### 🌱 Personal experience
+### 🌱 Personal experience 经验帖
+
 Here are some of the repositories that are related to personal summary of research:
 
-- **[The-Ph.D.-journey-sceneryPublic](https://github.com/CHAOZHAO-1/The-Ph.D.-journey-scenery)**: Collected a number of doctoral problems encountered and related information.
+- **[The-Ph.D.-journey-scenery](https://github.com/CHAOZHAO-1/The-Ph.D.-journey-scenery)**: Collected a number of doctoral problems encountered and related information. 博士期间摘录的他人的干货
+
+- **[Tips-for-Young-University-Teachers](https://github.com/CHAOZHAO-1/Tips-for-Young-University-Teachers)**: The thinking transformation route of young teachers.观看B站Up主[老司机耿进财]的系列视频摘录的笔记-针对青年教师思维转变
 
 ---
 
