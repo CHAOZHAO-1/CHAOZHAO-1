@@ -79,7 +79,7 @@ Some of my repositories related to research paper:
 Check out some of HUST datasets other datasets:
 
 - **[HUST-bearing-dataset](https://github.com/CHAOZHAO-1/HUSTbearing-dataset)**: This reposotory release a bearing failure dataset, which can support intelliegnt fault diagnosis research. 轴承数据集
-- **[HUSTg-earbox-dataset](https://github.com/CHAOZHAO-1/HUSTgearbox-dataset)**: This reposotory release a gearbox failure dataset, which can support intelliegnt fault diagnosis research. 齿轮数据集
+- **[HUST-gearbox-dataset](https://github.com/CHAOZHAO-1/HUSTgearbox-dataset)**: This reposotory release a gearbox failure dataset, which can support intelliegnt fault diagnosis research. 齿轮数据集
 
 - **[HUST-motor-multimodal-dataset](https://github.com/CHAOZHAO-1/HUSTmotor-multi-modal-dataset)**:This repository has open-sourced a dataset of motor failure, including vibration signals and audio signals.多模态电机数据集
 - **[HUST-Transmission-system-dataset](https://github.com/CHAOZHAO-1/HUSTTransmissionsystem-dataset)**: This reposotory release a Transmission system failure dataset. 传动系统数据集
