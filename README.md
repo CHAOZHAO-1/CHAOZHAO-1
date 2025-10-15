@@ -61,6 +61,8 @@ Here are my repositories related to my review paper:
 ### 🤖 Research Paper
 Some of my repositories related to research paper:
 
+- **[MUGTN](https://github.com/CHAOZHAO-1/MUGTN)**: Multimodal unified generalization and translation network for intelligent fault diagnosis under dynamic environments.任务：多模态领域泛化故障诊断
+
 - **[AOSDGN](https://github.com/CHAOZHAO-1/AOSDGN)**: Adaptive open set domain generalization network: Learning to diagnose unknown faults under unknown working conditions. 任务：开集领域泛化故障诊断
 - **[SDAGN](https://github.com/CHAOZHAO-1/SDAGN)**:  Imbalanced domain generalization via Semantic-Discriminative augmentation for intelligent fault diagnosis.任务：不平衡领域泛化故障诊断
 
