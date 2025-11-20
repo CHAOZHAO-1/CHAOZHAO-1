@@ -49,17 +49,8 @@ If you're interested in any of the following areas, feel free to reach out via e
 
 
 
-
-
-
 ### 🛠️ Review Paper 
 Here are my repositories related to my review paper:
-
-- **[DG-PHM](https://github.com/CHAOZHAO-1/DG-PHM)**: This is a repository about Domain Generalization for PHM, including papers, code, datasets etc（基于领域泛化的故障预测与健康管理）.
-- **[DGFD-Benchmark](https://github.com/CHAOZHAO-1/Domain-generalization-fault-diagnosis-benchmark)**: This is a benckmark for domain generalization-based fault diagnosis（基于领域泛化的故障诊断基准实验）.
-
-- **[LLM-PHM](https://github.com/CHAOZHAO-1/LLM-based-PHM)**: This is a reposotory that includes paper about LLM-based fault diagnosis and prognosis（基于大模型的故障预测与健康管理）.
-- **[Multimodal-PHM](https://github.com/CHAOZHAO-1/Awsome-Multi-modal-based-PHM)**: This repository contains papers, code, and datasets related to multi-modal-based fault diagnosis（基于多模态数据的智能故障诊断）.
 ---
 
 - ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/DG-PHM?style=social) **[DG-PHM](https://github.com/CHAOZHAO-1/DG-PHM)** : This is a repository about Domain Generalization for PHM, including papers, code, datasets etc（基于领域泛化的故障预测与健康管理）.
@@ -68,26 +59,12 @@ Here are my repositories related to my review paper:
 - ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/Awsome-Multi-modal-based-PHM?style=social) **[Multimodal-PHM](https://github.com/CHAOZHAO-1/Awsome-Multi-modal-based-PHM)** : This repository contains papers, code, and datasets related to multi-modal-based fault diagnosis（基于多模态数据的智能故障诊断）.
 
 
-
+---
 
 
 ### 🤖 Research Paper
 Some of my repositories related to research paper:
-
-- **[MUGTN](https://github.com/CHAOZHAO-1/MUGTN)**: Multimodal unified generalization and translation network for intelligent fault diagnosis under dynamic environments.任务：多模态领域泛化故障诊断
-
-- **[AOSDGN](https://github.com/CHAOZHAO-1/AOSDGN)**: Adaptive open set domain generalization network: Learning to diagnose unknown faults under unknown working conditions. 任务：开集领域泛化故障诊断
-- **[SDAGN](https://github.com/CHAOZHAO-1/SDAGN)**:  Imbalanced domain generalization via Semantic-Discriminative augmentation for intelligent fault diagnosis.任务：不平衡领域泛化故障诊断
-
-- **[BWAN](https://github.com/CHAOZHAO-1/A-balanced-and-weighted-alignment-network-for-partial-transfer-fault-diagnosis)**: A-balanced-and-weighted-alignment-network-for-partial-transfer-fault-diagnosis.任务：部分领域适应故障诊断
-- **[MSDGN](https://github.com/CHAOZHAO-1/MSDGN)**:  Mutual-assistance semisupervised domain generalization network for intelligent fault diagnosis under unseen working conditions.任务：半监督领域泛化故障诊断
-
-- **[FDDG](https://github.com/CHAOZHAO-1/FDDG)**: A federated distillation domain generalization framework for machinery fault diagnosis with data privacy.任务：联邦领域泛化故障诊断
-- **[FedDGMC](https://github.com/CHAOZHAO-1/FedDGMC)**: Federated Domain Generalization: A Secure and Robust Framework for Intelligent Fault Diagnosis.任务：联邦领域泛化故障诊断
-
-- **[DAN](https://github.com/CHAOZHAO-1/Dual-adversarial-network-for-cross-domain-open-set-fault-diagnosis)**: Dual adversarial network for cross-domain open set fault diagnosis.任务：开集域适应故障诊断
-- **[DGNIS](https://github.com/CHAOZHAO-1/DGNIS)**: A domain generalization network combing invariance and specificity towards real-time intelligent fault diagnosis.任务：领域泛化故障诊断
-
+---
 
 - ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/MUGTN?style=social) **[MUGTN](https://github.com/CHAOZHAO-1/MUGTN)** : Multimodal unified generalization and translation network for intelligent fault diagnosis under dynamic environments（多模态领域泛化故障诊断）.
 - ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/AOSDGN?style=social) **[AOSDGN](https://github.com/CHAOZHAO-1/AOSDGN)** : Adaptive open set domain generalization network for unknown faults（开集领域泛化故障诊断）.
@@ -100,42 +77,26 @@ Some of my repositories related to research paper:
 - ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/DGNIS?style=social) **[DGNIS](https://github.com/CHAOZHAO-1/DGNIS)** : Domain generalization network combining invariance and specificity for real-time fault diagnosis（领域泛化故障诊断）.
 
 
-
-
-
-
 ---
 
 ### 💻 Open-source HUST datasets and other datasets
 Check out some of HUST datasets other datasets:
-
-- **[HUST-bearing-dataset](https://github.com/CHAOZHAO-1/HUSTbearing-dataset)**: This reposotory release a bearing failure dataset, which can support intelliegnt fault diagnosis research. 轴承数据集
-- **[HUST-gearbox-dataset](https://github.com/CHAOZHAO-1/HUSTgearbox-dataset)**: This reposotory release a gearbox failure dataset, which can support intelliegnt fault diagnosis research. 齿轮数据集
-
-- **[HUST-motor-multimodal-dataset](https://github.com/CHAOZHAO-1/HUSTmotor-multi-modal-dataset)**:This repository has open-sourced a dataset of motor failure, including vibration signals and audio signals.多模态电机数据集
-- **[HUST-Transmission-system-dataset](https://github.com/CHAOZHAO-1/HUSTTransmissionsystem-dataset)**: This reposotory release a Transmission system failure dataset. 传动系统数据集
-
-- **[Open-source datasets](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset)**: About An open-source mechanical failure dataset is available, comprising 30+ categories including bearings, gears, pumps, and others. 其他开源数据集
-
+---
 - ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/HUSTbearing-dataset?style=social) **[HUST-bearing-dataset](https://github.com/CHAOZHAO-1/HUSTbearing-dataset)** : Bearing failure dataset for intelligent fault diagnosis research（轴承数据集）.
 - ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/HUSTgearbox-dataset?style=social) **[HUST-gearbox-dataset](https://github.com/CHAOZHAO-1/HUSTgearbox-dataset)** : Gearbox failure dataset for intelligent fault diagnosis research（齿轮数据集）.
 - ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/HUSTmotor-multi-modal-dataset?style=social) **[HUST-motor-multimodal-dataset](https://github.com/CHAOZHAO-1/HUSTmotor-multi-modal-dataset)** : Motor failure dataset with vibration & audio signals（多模态电机数据集）.
 - ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/HUSTTransmissionsystem-dataset?style=social) **[HUST-Transmission-system-dataset](https://github.com/CHAOZHAO-1/HUSTTransmissionsystem-dataset)** : Transmission system failure dataset（传动系统数据集）.
 - ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/Machine-Fault-Dataset?style=social) **[Open-source datasets](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset)** : Open-source mechanical failure dataset with 30+ categories（其他开源数据集）.
 
-
-
 ---
 
 ### 🌱 Personal experience 经验帖
 
 Here are some of the repositories that are related to personal summary of research:
-
-- **[The-Ph.D.-journey-scenery](https://github.com/CHAOZHAO-1/The-Ph.D.-journey-scenery)**: Collected a number of doctoral problems encountered and related information. 博士期间摘录的他人的干货
-
-- **[Tips-for-Young-University-Teachers](https://github.com/CHAOZHAO-1/Tips-for-Young-University-Teachers)**: The thinking transformation route of young teachers.观看B站Up主[老司机耿进财]的系列视频摘录的笔记-针对青年教师思维转变
-
-- **[100-Questions](https://github.com/CHAOZHAO-1/100-Questions)**: Guiding questions for clearer thinking.一些有助于理清思路的问题
+---
+- ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/The-Ph.D.-journey-scenery?style=social) **[The-Ph.D.-journey-scenery](https://github.com/CHAOZHAO-1/The-Ph.D.-journey-scenery)** : Collected a number of doctoral problems encountered and related information（博士期间摘录的他人的干货）.
+- ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/Tips-for-Young-University-Teachers?style=social) **[Tips-for-Young-University-Teachers](https://github.com/CHAOZHAO-1/Tips-for-Young-University-Teachers)** : The thinking transformation route of young teachers（观看B站Up主[老司机耿进财]的系列视频摘录的笔记-针对青年教师思维转变）.
+- ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/100-Questions?style=social) **[100-Questions](https://github.com/CHAOZHAO-1/100-Questions)** : Guiding questions for clearer thinking（一些有助于理清思路的问题）.
 
 ---
 
