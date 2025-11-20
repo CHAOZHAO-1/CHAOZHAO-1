@@ -62,7 +62,7 @@ Here are my repositories related to my review paper:
 - **[Multimodal-PHM](https://github.com/CHAOZHAO-1/Awsome-Multi-modal-based-PHM)**: This repository contains papers, code, and datasets related to multi-modal-based fault diagnosis（基于多模态数据的智能故障诊断）.
 ---
 
-- **[DG-PHM](https://github.com/CHAOZHAO-1/DG-PHM)** ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/DG-PHM?style=social)
+- ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/DG-PHM?style=social)**[DG-PHM](https://github.com/CHAOZHAO-1/DG-PHM)** 
 - **[DGFD-Benchmark](https://github.com/CHAOZHAO-1/Domain-generalization-fault-diagnosis-benchmark)** ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/Domain-generalization-fault-diagnosis-benchmark?style=social)
 - **[LLM-PHM](https://github.com/CHAOZHAO-1/LLM-based-PHM)** ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/LLM-based-PHM?style=social)
 - **[Multimodal-PHM](https://github.com/CHAOZHAO-1/Awsome-Multi-modal-based-PHM)** ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/Awsome-Multi-modal-based-PHM?style=social)
