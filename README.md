@@ -50,8 +50,9 @@ If you're interested in any of the following areas, feel free to reach out via e
 
 
 ### 🛠️ Review Paper 
+
 Here are my repositories related to my review paper:
----
+
 
 - ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/DG-PHM?style=social) **[DG-PHM](https://github.com/CHAOZHAO-1/DG-PHM)** : This is a repository about Domain Generalization for PHM, including papers, code, datasets etc（基于领域泛化的故障预测与健康管理）.
 - ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/Domain-generalization-fault-diagnosis-benchmark?style=social) **[DGFD-Benchmark](https://github.com/CHAOZHAO-1/Domain-generalization-fault-diagnosis-benchmark)** : This is a benchmark for domain generalization-based fault diagnosis（基于领域泛化的故障诊断基准实验）.
