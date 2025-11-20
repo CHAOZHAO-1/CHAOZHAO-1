@@ -64,7 +64,7 @@ Here are my repositories related to my review paper:
 
 ### 🤖 Research Paper
 Some of my repositories related to research paper:
----
+
 
 - ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/MUGTN?style=social) **[MUGTN](https://github.com/CHAOZHAO-1/MUGTN)** : Multimodal unified generalization and translation network for intelligent fault diagnosis under dynamic environments（多模态领域泛化故障诊断）.
 - ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/AOSDGN?style=social) **[AOSDGN](https://github.com/CHAOZHAO-1/AOSDGN)** : Adaptive open set domain generalization network for unknown faults（开集领域泛化故障诊断）.
@@ -81,7 +81,7 @@ Some of my repositories related to research paper:
 
 ### 💻 Open-source HUST datasets and other datasets
 Check out some of HUST datasets other datasets:
----
+
 - ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/HUSTbearing-dataset?style=social) **[HUST-bearing-dataset](https://github.com/CHAOZHAO-1/HUSTbearing-dataset)** : Bearing failure dataset for intelligent fault diagnosis research（轴承数据集）.
 - ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/HUSTgearbox-dataset?style=social) **[HUST-gearbox-dataset](https://github.com/CHAOZHAO-1/HUSTgearbox-dataset)** : Gearbox failure dataset for intelligent fault diagnosis research（齿轮数据集）.
 - ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/HUSTmotor-multi-modal-dataset?style=social) **[HUST-motor-multimodal-dataset](https://github.com/CHAOZHAO-1/HUSTmotor-multi-modal-dataset)** : Motor failure dataset with vibration & audio signals（多模态电机数据集）.
@@ -93,7 +93,7 @@ Check out some of HUST datasets other datasets:
 ### 🌱 Personal experience 经验帖
 
 Here are some of the repositories that are related to personal summary of research:
----
+
 - ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/The-Ph.D.-journey-scenery?style=social) **[The-Ph.D.-journey-scenery](https://github.com/CHAOZHAO-1/The-Ph.D.-journey-scenery)** : Collected a number of doctoral problems encountered and related information（博士期间摘录的他人的干货）.
 - ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/Tips-for-Young-University-Teachers?style=social) **[Tips-for-Young-University-Teachers](https://github.com/CHAOZHAO-1/Tips-for-Young-University-Teachers)** : The thinking transformation route of young teachers（观看B站Up主[老司机耿进财]的系列视频摘录的笔记-针对青年教师思维转变）.
 - ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/100-Questions?style=social) **[100-Questions](https://github.com/CHAOZHAO-1/100-Questions)** : Guiding questions for clearer thinking（一些有助于理清思路的问题）.
