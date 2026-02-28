@@ -11,6 +11,8 @@ I'm Chao Zhao, I am an **Associate Professor** at the School of Mechanical Engin
 
 欢迎对工业人工智能和智能制造感兴趣的同学加入我的课题组！
 
+📄 [个人简历 (PDF)](Resume.pdf)
+
 📌 **课题组现招收硕士研究生**（2026年9月入学）  
 
 📌 **欢迎高年级本科生提前参与科研实践**
