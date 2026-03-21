@@ -51,9 +51,9 @@ If you're interested in any of the following areas, feel free to reach out via e
 
 
 
-### 🛠️ Review Paper 
+### 🛠️ Review Paper (综述论文)
 
-Here are my repositories related to my review paper:
+Here are my repositories related to my review paper（相关主题论文列表）:
 
 
 - ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/DG-PHM?style=social) **[DG-PHM](https://github.com/CHAOZHAO-1/DG-PHM)** : This is a repository about Domain Generalization for PHM, including papers, code, datasets etc（基于领域泛化的故障预测与健康管理）.
@@ -65,8 +65,9 @@ Here are my repositories related to my review paper:
 ---
 
 
-### 🤖 Research Paper
-Some of my repositories related to my research paper:
+### 🤖 Research Paper （研究论文）
+
+Some of my repositories related to my research paper（研究论文的开源代码）:
 
 - ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/EAGRR?style=social) **[EAGRR](https://github.com/CHAOZHAO-1/EAGRR)** : Interpretable and generalizable network for mmechanical transmission system distributed fault diagnosis（分布式领域泛化故障诊断）.
 -  
@@ -91,7 +92,7 @@ Some of my repositories related to my research paper:
 ---
 
 ### 💻 Open-source HUST datasets and other datasets
-Check out some of HUST datasets other datasets:
+Check out some of HUST datasets other datasets （开源华中科技大学机械故障数据集以及收集的其他开源数据集）:
 
 - ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/HUSTbearing-dataset?style=social) **[HUST-bearing-dataset](https://github.com/CHAOZHAO-1/HUSTbearing-dataset)** : Bearing failure dataset for intelligent fault diagnosis research（轴承数据集）.
 - ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/HUSTgearbox-dataset?style=social) **[HUST-gearbox-dataset](https://github.com/CHAOZHAO-1/HUSTgearbox-dataset)** : Gearbox failure dataset for intelligent fault diagnosis research（齿轮数据集）.
