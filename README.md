@@ -8,7 +8,9 @@ I'm Chao Zhao, I am an **Associate Professor** at the School of Mechanical Engin
 
 ## 🌟 招生信息 
 
-大家好，我是赵超，目前在东北大学（中国沈阳）机械工程与自动化学院任副教授。📄 [个人简历 (PDF)](Resume.pdf)
+大家好，我是赵超，目前在东北大学（中国沈阳）机械工程与自动化学院任副教授。  
+
+📄 [个人简历 (PDF)](Resume.pdf)
 
 欢迎对工业人工智能和智能制造感兴趣的同学加入我的课题组！
 
@@ -26,10 +28,7 @@ I'm Chao Zhao, I am an **Associate Professor** at the School of Mechanical Engin
 
 我们将为学生提供**联合培养**、**科研合作**与**企业交流**的机会。
 
-我的论文发表：
-
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Follow-blue)](https://www.researchgate.net/profile/Chao-Zhao-49)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Follow-green)](https://scholar.google.com.au/citations?user=GMK0p4QAAAAJ&hl=zh-CN)
+我的论文发表：[![ResearchGate](https://img.shields.io/badge/ResearchGate-Follow-blue)](https://www.researchgate.net/profile/Chao-Zhao-49) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Follow-green)](https://scholar.google.com.au/citations?user=GMK0p4QAAAAJ&hl=zh-CN)
 
 ---
 
@@ -44,9 +43,9 @@ If you're interested in any of the following areas, feel free to reach out via e
 
 * **Data-Model Hybrid Driven Intelligent Monitoring & Maintenance for Advanced Equipment** （数模混合驱动的高端装备智能监测与运维）
 
-* **Application of Foundation Models in Smart Manufacturing** （ 工业大模型在智能制造中的应用）
+* **Application of Foundation Models in Smart Manufacturing** （工业大模型在智能制造中的应用）
  
-* **Industrial Big Data Governance and Mining** （  工业大数据治理与挖掘）
+* **Industrial Big Data Governance and Mining** （工业大数据治理与挖掘）
 
 ---
 
@@ -67,16 +66,24 @@ Here are my repositories related to my review paper:
 
 
 ### 🤖 Research Paper
-Some of my repositories related to research paper:
+Some of my repositories related to my research paper:
 
-
+- ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/ERGRR?style=social) **[EAGRR](https://github.com/CHAOZHAO-1/EAGRR)** : Interpretable and generalizable network for mmechanical transmission system distributed fault diagnosis（分布式领域泛化故障诊断）.
+-  
 - ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/MUGTN?style=social) **[MUGTN](https://github.com/CHAOZHAO-1/MUGTN)** : Multimodal unified generalization and translation network for intelligent fault diagnosis under dynamic environments（多模态领域泛化故障诊断）.
-- ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/AOSDGN?style=social) **[AOSDGN](https://github.com/CHAOZHAO-1/AOSDGN)** : Adaptive open set domain generalization network for unknown faults（开集领域泛化故障诊断）.
-- ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/SDAGN?style=social) **[SDAGN](https://github.com/CHAOZHAO-1/SDAGN)** : Imbalanced domain generalization via Semantic-Discriminative augmentation（不平衡领域泛化故障诊断）.
-- ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/A-balanced-and-weighted-alignment-network-for-partial-transfer-fault-diagnosis?style=social) **[BWAN](https://github.com/CHAOZHAO-1/A-balanced-and-weighted-alignment-network-for-partial-transfer-fault-diagnosis)** : Partial transfer fault diagnosis network（部分领域适应故障诊断）.
-- ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/MSDGN?style=social) **[MSDGN](https://github.com/CHAOZHAO-1/MSDGN)** : Mutual-assistance semi-supervised domain generalization network（半监督领域泛化故障诊断）.
-- ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/FDDG?style=social) **[FDDG](https://github.com/CHAOZHAO-1/FDDG)** : Federated distillation domain generalization framework for machinery fault diagnosis（联邦领域泛化故障诊断）.
-- ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/FedDGMC?style=social) **[FedDGMC](https://github.com/CHAOZHAO-1/FedDGMC)** : Federated Domain Generalization: Secure & Robust Framework for Intelligent Fault Diagnosis（联邦领域泛化故障诊断）.
+- 
+- ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/AOSDGN?style=social) **[AOSDGN](https://github.com/CHAOZHAO-1/AOSDGN)** : Adaptive open set domain generalization network for detecting unknown faults（开集领域泛化故障诊断）.
+- 
+- ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/SDAGN?style=social) **[SDAGN](https://github.com/CHAOZHAO-1/SDAGN)** : Imbalanced domain generalization via Semantic-Discriminative augmentation for Intelligent fault diagnosis（不平衡领域泛化故障诊断）.
+- 
+- ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/A-balanced-and-weighted-alignment-network-for-partial-transfer-fault-diagnosis?style=social) **[BWAN](https://github.com/CHAOZHAO-1/A-balanced-and-weighted-alignment-network-for-partial-transfer-fault-diagnosis)** : Partial transfer fault diagnosis network for Intelligent fault diagnosis（部分领域适应故障诊断）.
+- 
+- ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/MSDGN?style=social) **[MSDGN](https://github.com/CHAOZHAO-1/MSDGN)** : Mutual-assistance semi-supervised domain generalization network for Intelligent fault diagnosis（半监督领域泛化故障诊断）.
+- 
+- ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/FDDG?style=social) **[FDDG](https://github.com/CHAOZHAO-1/FDDG)** : Federated distillation domain generalization framework for Intelligent fault diagnosis（联邦领域泛化故障诊断）.
+- 
+- ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/FedDGMC?style=social) **[FedDGMC](https://github.com/CHAOZHAO-1/FedDGMC)** : Federated domain generalization: secure & robust framework for intelligent fault diagnosis（联邦领域泛化故障诊断）.
+- 
 - ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/Dual-adversarial-network-for-cross-domain-open-set-fault-diagnosis?style=social) **[DAN](https://github.com/CHAOZHAO-1/Dual-adversarial-network-for-cross-domain-open-set-fault-diagnosis)** : Dual adversarial network for cross-domain open set fault diagnosis（开集域适应故障诊断）.
 - ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/DGNIS?style=social) **[DGNIS](https://github.com/CHAOZHAO-1/DGNIS)** : Domain generalization network combining invariance and specificity for real-time fault diagnosis（领域泛化故障诊断）.
 
@@ -98,6 +105,6 @@ Check out some of HUST datasets other datasets:
 
 Here are some of the repositories that are related to personal summary of research:
 
-- ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/The-Ph.D.-journey-scenery?style=social) **[The-Ph.D.-journey-scenery](https://github.com/CHAOZHAO-1/The-Ph.D.-journey-scenery)** : Collected a number of doctoral problems encountered and related information（博士期间摘录的他人的干货）.
+- ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/The-Ph.D.-journey-scenery?style=social) **[The-Ph.D.-journey-scenery](https://github.com/CHAOZHAO-1/The-Ph.D.-journey-scenery)** : Collected a number of doctoral problems encountered and related information（经验总结摘抄）.
 ---
 
