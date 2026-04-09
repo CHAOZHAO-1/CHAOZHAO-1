@@ -10,9 +10,7 @@ I'm Chao Zhao, I am an **Associate Professor** at the School of Mechanical Engin
 
 大家好，我是赵超，目前在东北大学（中国沈阳）机械工程与自动化学院任副教授。  
 
-📄 [个人简历](Resume.pdf)
-
-🔗 [教师主页主页](http://faculty.neu.edu.cn/zhaoc0/zh_CN/index.htm)
+🔗 [教师主页](http://faculty.neu.edu.cn/zhaoc0/zh_CN/index.htm)
 
 欢迎对工业人工智能和智能制造感兴趣的同学加入我的课题组！
 
