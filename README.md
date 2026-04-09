@@ -12,6 +12,8 @@ I'm Chao Zhao, I am an **Associate Professor** at the School of Mechanical Engin
 
 📄 [个人简历 (PDF)](Resume.pdf)
 
+🔗 [教师主页主页](http://faculty.neu.edu.cn/zhaoc0/zh_CN/index.htm)
+
 欢迎对工业人工智能和智能制造感兴趣的同学加入我的课题组！
 
 
