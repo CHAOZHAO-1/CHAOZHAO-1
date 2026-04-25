@@ -16,7 +16,7 @@ I'm Chao Zhao, I am an **Associate Professor** at the School of Mechanical Engin
 
 
 
-📌 **课题组现招收硕士研究生**（2026年9月入学）  
+📌 **课题组现招收硕士研究生**（2027年9月入学）  
 
 📌 **欢迎高年级本科生提前参与科研实践**
 
