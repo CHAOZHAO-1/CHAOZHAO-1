@@ -69,6 +69,8 @@ Here are my repositories related to my review paper（相关主题论文列表�
 
 Some of my repositories related to my research paper（研究论文的开源代码）:
 
+- ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/SGTA?style=social) **[SGTA](https://github.com/CHAOZHAO-1/SGTA)** : Adaptive generalization: An active perception framework for robust intelligent fault diagnosis under dynamic environments（自适应泛化故障诊断）.
+
 - ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/EAGRR?style=social) **[EAGRR](https://github.com/CHAOZHAO-1/EAGRR)** : Interpretable and generalizable network for mmechanical transmission system distributed fault diagnosis（分布式领域泛化故障诊断）.
  
 - ![Stars](https://img.shields.io/github/stars/CHAOZHAO-1/MUGTN?style=social) **[MUGTN](https://github.com/CHAOZHAO-1/MUGTN)** : Multimodal unified generalization and translation network for intelligent fault diagnosis under dynamic environments（多模态领域泛化故障诊断）.
